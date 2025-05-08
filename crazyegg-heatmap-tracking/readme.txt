@@ -2,7 +2,7 @@
 Contributors: crazyegg
 Tags: analytics, click, crazyegg, crazy egg, heat maps, heatmap, heatmaps, marketing, reports, tracking, traffic, visitor recordings
 Requires at least: 2.0.2
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 2.12
 
 The easiest, free way to add your Crazy Egg tracking script to your WordPress site. The official Crazy Egg Plugin for WordPress.
